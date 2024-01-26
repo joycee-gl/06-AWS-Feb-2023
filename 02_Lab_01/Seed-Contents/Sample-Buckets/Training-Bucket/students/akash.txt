@@ -1,0 +1,3 @@
+Name = Akash
+StudentID=101
+Enrolled-Courses=JavaFSD

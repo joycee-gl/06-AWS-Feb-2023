@@ -1,0 +1,3 @@
+Name = Harini
+StudentID=102
+Enrolled-Courses=Python, AWS-Cloud

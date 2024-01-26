@@ -1,0 +1,3 @@
+Name = Rajesh
+StudentID=103
+Enrolled-Courses=MERN,Front-End
